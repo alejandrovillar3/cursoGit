@@ -15,7 +15,7 @@ a+b = c; //cruck
 
 
 //función resta (a-b)
-...
+a-b= c;
 
 
 
