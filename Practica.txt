@@ -9,7 +9,7 @@
 
 
 //función suma (a+b)
-a+b = d; //cruck
+a+b = deeeee //cruck;
 
 
 
