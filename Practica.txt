@@ -21,7 +21,7 @@ a-b= c;
 
 
 //función multiplicación(a*b)
-...
+a*b=drake;
 
 
 
