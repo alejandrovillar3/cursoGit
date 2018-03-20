@@ -27,4 +27,4 @@ a+b = c; //cruck
 
 
 //función dividisión
-...
+a/b=ctangana
